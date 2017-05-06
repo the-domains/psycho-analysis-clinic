@@ -1,0 +1,28 @@
+typography_spectrum: 0.9034706829115748
+color:
+  brandStrength: 0.42826828453689814
+  lightness: 0.6532854177057743
+  saturation: 0.6577062648721039
+  rhythmicContrast: 0.5032423953525722
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+layout_spectrum: 0.31619087676517665
+name: psychoanalysis.clinic
+navigation:
+  - name: Adam Saltiel - Analyst
+    url: 'https://adamsaltiel.psycho-analysis.clinic'
+    type: external
+title: The Psycho-Analysis Clinic
+content: []
+description: ''
+github: true
+analytics:
+  google: UA-98676236-1
+author:
+  name: Adam Saltiel All Rights Reserved ©️ Configuration Science Ltd 2017
+  email: adamsaltiel@psycho-analysis.clinic
+  url: 'http://configurationscience.co.uk/'
