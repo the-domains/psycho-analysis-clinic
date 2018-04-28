@@ -17,12 +17,72 @@ navigation:
     url: 'https://adamsaltiel.psycho-analysis.clinic'
     type: external
 title: The Psycho-Analysis Clinic
-content: []
-description: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6bbab7-e0d7-4263-b1ac-dc3e4b1b9811.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed6bbab7-e0d7-4263-b1ac-dc3e4b1b9811.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fe88eb2-039e-45d8-8b19-acf33f0652a1.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fe88eb2-039e-45d8-8b19-acf33f0652a1.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Therapy Referrals and Supervision for Groups, Families and Individuals'
 github: true
 analytics:
   google: UA-98676236-1
 author:
-  name: Adam Saltiel All Rights Reserved ©️ Configuration Science Ltd 2017
+  name: 'Configuration Science, All Rights Reserved ©️ Configuration Science Ltd 2017'
   email: adamsaltiel@psycho-analysis.clinic
   url: 'http://configurationscience.co.uk/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/483f7709-af95-402b-99c1-ef1dfc825ad1.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b0c69a8-dd88-4fa4-953d-c824454d1222.png
+purpose:
+  - type: internal
+    label: 'Find out more ... '
+    item: d2658804-1124-4bd3-a6c1-b79db73d454d
+  - type: contact
+    url: 'tel:07813805316'
+    label: 'Call: 07813 805 316'
+url: 'http://psychoanalysis.clinic/'
